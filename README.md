@@ -5,7 +5,7 @@
 ### Steps to run Code
 - Clone the repository.
 ```
-git clone https://github.com/noorkhokhar99/weapon-detection-python-opencv-withyolov5-.git
+git clone https://github.com/Anant020/defenses-app.git
 ```
 - Goto the cloned folder.
 ```
