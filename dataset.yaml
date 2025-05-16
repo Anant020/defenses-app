@@ -1,0 +1,8 @@
+# Dataset configuration for weapon detection
+path: ./dataset  # Root directory of dataset
+train: images/train  # Train images (relative to 'path')
+val: images/val  # Validation images (relative to 'path')
+
+# Classes
+names:
+  0: Weapon  # Class 0 is "Weapon"
