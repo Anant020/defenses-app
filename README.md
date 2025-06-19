@@ -30,3 +30,5 @@ pip install -r requirements.txt
 
 download weight: https://drive.google.com/drive/folders/1g44ApwZcTKVfoHJxxN_caI23XezYCEg-?usp=sharing and place it in the folder.
 
+
+#Version1
